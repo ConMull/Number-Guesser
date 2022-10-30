@@ -1,0 +1,16 @@
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.exe
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.deps.json
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.runtimeconfig.json
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.runtimeconfig.dev.json
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.dll
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\ref\Number Guesser.dll
+C:\Users\connormulcahy\Desktop\Number Guesser\bin\Debug\net5.0\Number Guesser.pdb
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.csproj.AssemblyReference.cache
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.AssemblyInfoInputs.cache
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.AssemblyInfo.cs
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.dll
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\ref\Number Guesser.dll
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.pdb
+C:\Users\connormulcahy\Desktop\Number Guesser\obj\Debug\net5.0\Number Guesser.genruntimeconfig.cache
